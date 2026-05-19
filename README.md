@@ -47,7 +47,7 @@ Simple Chatbot is a Python terminal application that responds to a fixed set of 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/simple-chatbot.git
+   git clone https://github.com/abdullah-devcore/simple-chatbot.git
    cd simple-chatbot
    ```
 
@@ -114,8 +114,7 @@ simple-chatbot/
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
+This project is open source and available.
 ---
 
-<p align="center">Made with ❤️ in Python</p>
+<p align="center">Made with Python</p>
